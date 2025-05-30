@@ -48,3 +48,7 @@ I uploaded all the screenshots in my GitHub repository and wrote a small README 
 *CONCLUSION*
 
 This task helped me understand how cloud storage works and how files can be uploaded and shared through a cloud platform. Even though it didn’t involve any coding, it was still a good learning experience for using cloud services in real life.
+
+# OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/b4641f4d-8281-48a7-aa2a-24b90abcf972)
